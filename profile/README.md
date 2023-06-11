@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BleachStudio)
+![Top Langs](https://github-stats-api.lavacat.xyz/api/top-langs/?username=BleachStudio)
